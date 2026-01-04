@@ -11,7 +11,7 @@
       "title": "Chinese Character Converter",
       "description": "Auto convert clipboard content between Traditional and Simplified Chinese",
       "mode": "no-view",
-      "subtitle": ""
+      "icon": "extension-icon.png"
     }
   ],
   "dependencies": {
@@ -40,6 +40,7 @@
     "Windows"
   ],
   "categories": [
-    "Productivity"
+    "Productivity",
+    "Applications"
   ]
 }
